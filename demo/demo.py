@@ -33,8 +33,7 @@ def main(image_file):
 
 
 if __name__ == '__main__':
-    # image_file = '/home/yzh/ssd_head_detector/test_image'
-    image_file = '/home/yzh/ssd_head_detector/dataset/holiwood/keyframes/'
+    image_file = father_path + '/dataset/holiwood/keyframes/'
     main(image_file)
 
 
