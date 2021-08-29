@@ -5,3 +5,4 @@ SSD pytorch version source code
 https://github.com/amdegroot/ssd.pytorch
 # dataset
 https://www.robots.ox.ac.uk/~vgg/software/headmview/
+holywood 700 for train
